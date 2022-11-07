@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tassadit</h1>
-<h3 align="center">I have been a web developer since 2019 and a mobile developer since 2021, passionate about new technologies, I am particularly interested in modern Frameworks highlighting good code practices, I master a number of technologies, programming languages and Frameworks, I appreciate teamwork, injecting positive energy and carrying out my projects.</h3>
+<h3 align="center">I am a web developer since 2019 and a mobile developer since 2021, passionate about new technologies, I am particularly interested in modern Frameworks highlighting good code practices, I master a number of technologies, programming languages and Frameworks, I enjoy working in a team, injecting positive energy and completing my projects.</h3>
 
 - 🔭 I’m currently working on [Access V3](https://www.fortuny.fr/)
 
 - 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://tassadit-maghni.com](https://tassadit-maghni.com)
-
-- 📝 I regularly write articles on [https://blog.tassadit-maghni.com](https://blog.tassadit-maghni.com)
 
 - 💬 Ask me about **React Laravel nodejs PHP JavaScript...**
 
